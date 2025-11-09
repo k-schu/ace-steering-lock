@@ -32,9 +32,9 @@ other low value higher than 0 will do. E.g. 10.
 
 Check SimHub logs:
 
-	INFO	ACESteeringLock: Init()
-	INFO	ACESteeringLock: found supported wheel: Simucube 2 Pro
-	INFO	ACESteeringLock: setting rotation of amr_v8_vantage_gt3 to: 640
+	INFO	ACCSteeringLock: Init()
+	INFO	ACCSteeringLock: found supported wheel: Simucube 2 Pro
+	INFO	ACCSteeringLock: setting rotation of amr_v8_vantage_gt3 to: 640
 
 In TrueDrive you should see "Angle set by game" below "Steering range".
 
